@@ -9,7 +9,6 @@ https://bazaar.abuse.ch/sample/41a037f09bf41b5cb1ca453289e6ca961d61cd96eeefb1b5b
 
 ### Powershell
 
-https://bazaar.abuse.ch/sample/050efb70d521f74a42dcd63c703900433b03cf138fcfa1812705c8cb37deb1ea/
 https://bazaar.abuse.ch/sample/ef7b8582cd02a9bcb90c8474391b4f6656ecfd716abbe88574476b2abda06f33/
 https://bazaar.abuse.ch/sample/3047dbac45677749501f5f0ecc382d72025b83e30ab472262ba2365c61e15f0c/
 https://bazaar.abuse.ch/sample/bdda44318119236174b9499616434dc0ddf2651bccae2f86ed34bc1f25f57cfa/
