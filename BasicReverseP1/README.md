@@ -33,12 +33,30 @@ https://bazaar.abuse.ch/sample/db36e6d97eab31ec49255cfad7115dbef3aa3b16173a77879
 ### Bat
 
 https://bazaar.abuse.ch/sample/9231dd1fc685c7c04d943a9078b346a2e53bbf30c3903776cd6ad1544fe6f27e/
+https://bazaar.abuse.ch/sample/2cb66a08113b4514dc43b857a6e6029279d9ac2140859bd3e8386a6fa4c2a262/
+https://bazaar.abuse.ch/sample/4e5eeb3466f9ff1b02cf89480335e8d746ca6ecaeb658dd43f08eed3ea877c39/
 
 ### APK
 
 https://bazaar.abuse.ch/sample/e7d71efb5a0ed704378966e835efb1de6208a4e48f77b79aadcd69f93680c182/
 https://bazaar.abuse.ch/sample/01322e2b318f657a30d39dcb04788094b98c92b4da1bdf2f9dc02c09c38ae418/
 
+### Maldoc
+
+https://bazaar.abuse.ch/sample/28079328abb78e6503a68b6097c7da8c936474e50e42b6143d89658890c53d0b/
+https://bazaar.abuse.ch/sample/bd8c9ae3215333881f06b32aa9f8ffcadd9dab082cd0be8f95d25de59d467084/
+https://bazaar.abuse.ch/sample/0b40f68217e04082693050bbabf3883860786ca0cfadedec86bc38c185c67018/
+
+### LNK
+https://bazaar.abuse.ch/sample/d8dbb40faf7b8585dc9963d2addf23d922c517623a24770e42f91dbe58975194/
+https://bazaar.abuse.ch/sample/0fb9d473f1209496cf596c26159ad5472aa82fcf08165a6f6f6249bec3d5339e/
+
+## HTML
+
+
+## ZIP?
+https://bazaar.abuse.ch/sample/dd723a88ffadaff183b3f1bee500b6adcffb55cceb1b4b5734f61a1e6de0d04c/
+https://bazaar.abuse.ch/sample/674703f364fdbdd1d1a762eff7b4a75090b9c235abd89b374196d709900b3d87/
 ---
 
 ## Obfuscation Techniques
