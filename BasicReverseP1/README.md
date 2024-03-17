@@ -51,12 +51,6 @@ https://bazaar.abuse.ch/sample/0b40f68217e04082693050bbabf3883860786ca0cfadedec8
 https://bazaar.abuse.ch/sample/d8dbb40faf7b8585dc9963d2addf23d922c517623a24770e42f91dbe58975194/
 https://bazaar.abuse.ch/sample/0fb9d473f1209496cf596c26159ad5472aa82fcf08165a6f6f6249bec3d5339e/
 
-## HTML
-
-
-## ZIP?
-https://bazaar.abuse.ch/sample/dd723a88ffadaff183b3f1bee500b6adcffb55cceb1b4b5734f61a1e6de0d04c/
-https://bazaar.abuse.ch/sample/674703f364fdbdd1d1a762eff7b4a75090b9c235abd89b374196d709900b3d87/
 ---
 
 ## Obfuscation Techniques
