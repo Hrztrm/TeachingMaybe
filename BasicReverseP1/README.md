@@ -36,11 +36,6 @@ https://bazaar.abuse.ch/sample/9231dd1fc685c7c04d943a9078b346a2e53bbf30c3903776c
 https://bazaar.abuse.ch/sample/2cb66a08113b4514dc43b857a6e6029279d9ac2140859bd3e8386a6fa4c2a262/
 https://bazaar.abuse.ch/sample/4e5eeb3466f9ff1b02cf89480335e8d746ca6ecaeb658dd43f08eed3ea877c39/
 
-### APK
-
-https://bazaar.abuse.ch/sample/e7d71efb5a0ed704378966e835efb1de6208a4e48f77b79aadcd69f93680c182/
-https://bazaar.abuse.ch/sample/01322e2b318f657a30d39dcb04788094b98c92b4da1bdf2f9dc02c09c38ae418/
-
 ### Maldoc
 
 https://bazaar.abuse.ch/sample/28079328abb78e6503a68b6097c7da8c936474e50e42b6143d89658890c53d0b/
