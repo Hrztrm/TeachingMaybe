@@ -4,7 +4,6 @@
 
 ### Java
 
-https://github.com/birminghamcyberarms/QRLog/blob/main/samples/QRCodeWriter.java
 https://bazaar.abuse.ch/sample/41a037f09bf41b5cb1ca453289e6ca961d61cd96eeefb1b5bbf153612396d919/
 
 ### Powershell
